@@ -1,6 +1,6 @@
 <div align="center">
 
-| [![Rose Wambui](https://img.shields.io/badge/RM-Rose%20Mwangi-blue)](#) | [![Stars](https://img.shields.io/github/stars/rwambui?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![twitter](https://img.shields.io/twitter/follow/codemuse_?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/codemuse_) | 
+| [![Rose Wambui](https://img.shields.io/badge/RM-Rose%20Mwangi-blue)](#) | [![Stars](https://img.shields.io/github/stars/c0de-muse?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![twitter](https://img.shields.io/twitter/follow/codemuse_?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/codemuse_) | 
 --| --| --|
 
 </div>
@@ -22,6 +22,6 @@
 
 <h2 align="left">Stats 📈 </h2>
 <p align="left">
-<img width="380px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rwambui&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&stroke=0000&background=0D1117" />
+<img width="380px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=c0de-muse&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&stroke=0000&background=0D1117" />
 </p>
 </div>
