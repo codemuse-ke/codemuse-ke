@@ -10,7 +10,7 @@
 <h3> Let's connect!</h3>
   <a target="_blank" href="https://www.linkedin.com/in/rose-mwangi-8a86b3131/"><img align="center"      src="img/linkedin.svg" alt="Rose | LinkedIn" width="31px"/></a>
   <a target="_blank" href="https://twitter.com/@codemuse_"><img align="center" src="img/twitter.svg" alt="Rose | Twitter" width="31px"/></a>
-  <a target="_blank" href="mailto:bobolikescode@gmail.com:"><img align="center" src="img/icons8-gmail.svg" alt="Rose | Mail" width="31px"/></a>
+  <a target="_blank" href="mailto:codemuseio@gmail.com:"><img align="center" src="img/icons8-gmail.svg" alt="Rose | Mail" width="31px"/></a>
 </div>
 
 <div>
