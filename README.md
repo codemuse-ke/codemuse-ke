@@ -1,6 +1,6 @@
 <div align="center">
 
-| [![Rose Wambui](https://img.shields.io/badge/RM-Rose%20Mwangi-blue)](#) | [![Stars](https://img.shields.io/github/stars/codemuse-io?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![twitter](https://img.shields.io/twitter/follow/codemuse_?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/codemuse_) | 
+| [![Rose Wambui](https://img.shields.io/badge/RM-Rose%20Mwangi-blue)](#) | [![Stars](https://img.shields.io/github/stars/codemuse-io?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![twitter](https://img.shields.io/twitter/follow/codemuse_io?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/codemuse_) | 
 --| --| --|
 
 </div>
