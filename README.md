@@ -20,8 +20,8 @@
 * An open-source enthusiast!🔣
 * Ask me about anything(I am happy to help) 💬
 
-<h2 align="left">Stats 📈 </h2>
+<!-- <h2 align="left">Stats 📈 </h2>
 <p align="left">
 <img width="380px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codemuse-io&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&stroke=0000&background=0D1117" />
 </p>
-</div>
+</div> -->
